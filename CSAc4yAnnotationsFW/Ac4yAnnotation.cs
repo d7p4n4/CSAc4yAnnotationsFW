@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace CSAc4yAnnotationsFW
+namespace CSAc4yAnnotation
 {
     public class Ac4yAnnotation : Attribute
     {

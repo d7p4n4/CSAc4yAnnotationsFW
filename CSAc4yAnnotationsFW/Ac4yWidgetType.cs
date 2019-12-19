@@ -1,13 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CSAc4yAnnotationsFW
+﻿namespace CSAc4yAnnotation
 {
     public class Ac4yWidgetType : Ac4yAnnotation
     {
+
         public string Type { get; set; }
-    }
-}
+
+        public Ac4yWidgetType(string type)
+        {
+            Type = type;
+        }
+
+    } // Ac4yWidgetType
+
+} // CSAc4yAnnotation
