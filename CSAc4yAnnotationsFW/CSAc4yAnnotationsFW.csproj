@@ -49,6 +49,8 @@
     <Compile Include="Ac4yAnnotation.cs" />
     <Compile Include="Ac4yEmbedded.cs" />
     <Compile Include="Ac4yWidgetType.cs" />
+    <Compile Include="NeedToSerialize.cs" />
+    <Compile Include="Persistent.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
