@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSAc4yAnnotationsFW
 {
-    class Ac4yEmbedded : Ac4yAnnotation
+    public class Ac4yEmbedded : Ac4yAnnotation
     {
     }
 }
